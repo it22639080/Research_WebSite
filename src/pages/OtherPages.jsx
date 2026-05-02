@@ -265,7 +265,7 @@ const SLIDE_SETS = [
     title: 'Progress Presentation II',
     date: 'January 2026',
     icon: '🔬',
-    status: 'In Progress',
+    status: 'Available',
     desc: 'Full integration results, research paper highlights, complete model evaluation, and user testing findings.',
     viewLink:     'https://mysliit-my.sharepoint.com/:f:/g/personal/it22639080_my_sliit_lk/IgAXk9qsIiQ1QqjQ4ZemNyFuAVUAU8ylhrK78GTV85peavg?e=dcRzQY',
     downloadLink: 'https://mysliit-my.sharepoint.com/:f:/g/personal/it22639080_my_sliit_lk/IgAXk9qsIiQ1QqjQ4ZemNyFuAVUAU8ylhrK78GTV85peavg?e=dcRzQY',
